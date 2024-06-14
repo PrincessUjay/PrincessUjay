@@ -1,10 +1,10 @@
 ## Hi there 👋, Welcome to My Multifaceted World!
-
+ABOUT ME
+👩‍💻 I'm not your typical DevOps engineer. I bring a blend of experiences to the table that sets me on a unique flight path in the tech world. My journey has been a mix of coding, automating, and collaborating to create exceptional digital experiences. I'm all about making the software development world run like a well-oiled machine, I help teams collaborate better and deliver top-notch products, and I'm passionate about streamlining software development through DevOps practices, leveraging my diverse background to bring a unique perspective to the tech world. Also, my background in psychology enables me to bring a unique understanding of team dynamics and user experiences to my technical work.
 <!--
 **PrincessUjay/PrincessUjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-ABOUT ME
-👩‍💻 I'm not your typical DevOps engineer. I bring a blend of experiences to the table that sets me on a unique flight path in the tech world. My journey has been a mix of coding, automating, and collaborating to create exceptional digital experiences. I'm all about making the software development world run like a well-oiled machine, I help teams collaborate better and deliver top-notch products, and I'm passionate about streamlining software development through DevOps practices, leveraging my diverse background to bring a unique perspective to the tech world. Also, my background in psychology enables me to bring a unique understanding of team dynamics and user experiences to my technical work.
+
 
 🔧 Tech Stack
 Languages: Python, JavaScript, Bash, YAML
