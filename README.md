@@ -18,6 +18,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://medium.com/@princess-ujay/embracing-reflection-the-power-of-self-discovery-8f56a108a30c" title="Embracing Reflection: The Power of Self-Discovery"><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*qxZ88Hn9HJh57wdh8juEUA@2x.jpeg" alt="Reflection" width="200px" align="left" /></a>
+<a href="https://medium.com/@princess-ujay/embracing-reflection-the-power-of-self-discovery-8f56a108a30c" title="Embracing Reflection: The Power of Self-Discovery"><strong>Embracing Reflection: The Power of Self-Discovery</strong></a>
+<div><strong>16 May, 2024</strong>
+<br/> In a world where self-reflection is often feared, individuals shy away from looking in the mirror, dreading what they might uncover. Yet, it is in confronting our flaws that we pave the path for growth and progress.</p> <br/>
+<!-- HASHNODE_BLOG:END -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -38,14 +45,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princessujay&" alt="princessujay" /></p>
 
 
-### My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://medium.com/@princess-ujay/embracing-reflection-the-power-of-self-discovery-8f56a108a30c" title="Embracing Reflection: The Power of Self-Discovery"><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*qxZ88Hn9HJh57wdh8juEUA@2x.jpeg" alt="Reflection" width="250px" align="left" /></a>
-<a href="https://medium.com/@princess-ujay/embracing-reflection-the-power-of-self-discovery-8f56a108a30c" title="Embracing Reflection: The Power of Self-Discovery"><strong>Embracing Reflection: The Power of Self-Discovery</strong></a>
-<div><strong>16 May, 2024</strong>
-<br/> In a world where self-reflection is often feared, individuals shy away from looking in the mirror, dreading what they might uncover. Yet, it is in confronting our flaws that we pave the path for growth and progress.</p> <br/>
-<!-- HASHNODE_BLOG:END -->
+
 
 ### Achievements
 
