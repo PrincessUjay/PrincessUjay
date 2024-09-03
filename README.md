@@ -111,8 +111,8 @@
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> 
   </a> 
-  <a href="https://www.adobe.com/products/xd.html">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+  <a href="https://kubernetes.io">
+    <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" alt="kubernetes" width="40" height="40"/>
   </a>
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> 
