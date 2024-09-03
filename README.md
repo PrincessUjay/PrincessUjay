@@ -3,7 +3,7 @@
 <h2 align="left">Hi 👋, I'm Princess</h2>
 
 ### About Me
-👩‍💻 I'm not your typical DevOps engineer. I bring a blend of experiences to the table that sets me on a unique flight path in the tech world. My journey has been a mix of coding, automating, and collaborating to create exceptional digital experiences. I'm all about making the software development world run like a well-oiled machine, helping teams collaborate better and deliver top-notch products. My passion lies in streamlining software development through DevOps practices, leveraging my diverse background to bring a unique perspective to the tech world. My background in psychology enables me to bring a unique understanding of team dynamics and user experiences to my technical work.
+👩‍💻 I'm a DevOps engineer with a distinctive approach to technology. My journey blends coding, automation, and collaboration to create seamless digital experiences. I focus on optimizing software development processes, helping teams work together more effectively and deliver high-quality products. My passion for streamlining development through DevOps practices is enriched by my background in psychology, which gives me a unique perspective on team dynamics and user experiences. This diverse background allows me to contribute a fresh viewpoint to the tech world.
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=princessujay&label=Profile%20views&color=0e75b6&style=flat" alt="princessujay" /> 
