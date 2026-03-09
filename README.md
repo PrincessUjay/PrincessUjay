@@ -13,11 +13,13 @@ This multidisciplinary outlook allows me to contribute meaningfully to building 
   <img src="https://komarev.com/ghpvc/?username=princessujay&label=Profile%20views&color=0e75b6&style=flat" alt="princessujay" /> 
 </p>
 
-<!-- <p align="left"> 
+<p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
+    
     <img src="https://github-profile-trophy.vercel.app/?username=princessujay" alt="princessujay" />
+    
   </a> 
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=princessujay&theme=flat&no-frame=true&margin-w=15&row=1" />
