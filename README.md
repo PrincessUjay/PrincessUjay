@@ -3,7 +3,11 @@
 <h2 align="left">Hi 👋, I'm Princess</h2>
 
 ### About Me
-👩‍💻 I'm a DevOps engineer with a distinctive approach to technology. My journey blends coding, automation, and collaboration to create seamless digital experiences. I focus on optimizing software development processes, helping teams work together more effectively and deliver high-quality products. My passion for streamlining development through DevOps practices is enriched by my background in psychology, which gives me a unique perspective on team dynamics and user experiences. This diverse background allows me to contribute a fresh viewpoint to the tech world.
+👩‍💻 I'm a Software Tester / Quality Assurance Engineer with a distinctive approach. My work focuses on ensuring software reliability, usability, and performance through structured testing, critical analysis, and continuous improvement. I specialize in identifying defects early, validating product functionality, and helping development teams deliver high-quality, stable applications. My experience spans manual testing, test case design, regression testing, and product quality validation within agile development environments.
+
+My background in psychology gives me an additional advantage in understanding user behavior, usability challenges, and team dynamics, enabling me to approach software quality from both a technical and human-centered perspective.
+
+This multidisciplinary outlook allows me to contribute meaningfully to building products that are not only functional but truly usable and reliable.
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=princessujay&label=Profile%20views&color=0e75b6&style=flat" alt="princessujay" /> 
@@ -15,6 +19,9 @@
   </a> 
 </p>
 
+<p>
+[![trophy](https://github-profile-trophy.vercel.app/?princessujay=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 <p align="left"> 
   <a href="https://twitter.com/princess_ujay" target="blank">
     <img src="https://img.shields.io/twitter/follow/princess_ujay?logo=twitter&style=for-the-badge" alt="princess_ujay" />
