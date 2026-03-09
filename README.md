@@ -19,9 +19,8 @@ This multidisciplinary outlook allows me to contribute meaningfully to building 
   </a> 
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=princessujay&theme=flat&no-frame=true&margin-w=15&row=1" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princessujay&layout=compact)
+![Princess's GitHub stats](https://github-readme-stats.vercel.app/api?username=princessujay&show_icons=true)
 
 <p align="left"> 
   <a href="https://twitter.com/princess_ujay" target="blank">
