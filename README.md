@@ -13,15 +13,24 @@ This multidisciplinary outlook allows me to contribute meaningfully to building 
   <img src="https://komarev.com/ghpvc/?username=princessujay&label=Profile%20views&color=0e75b6&style=flat" alt="princessujay" /> 
 </p>
 
-<p align="left"> 
+<!-- <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=princessujay" alt="princessujay" />
   </a> 
-</p>
+</p> -->
+<h3>🌐 Portfolio</h3>
+
+<a href="YOUR_PORTFOLIO_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/Software%20Testing%20Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="[YOUR_WEBSITE_LINK](https://sites.google.com/view/princessujay/home)" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Personal%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
 
 <p align="left">
 <a href="https://linkedin.com/in/princessujunwa">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-Ujunwa%20Princess%20Onyekaba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
+<img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-Ujunwa%20Princess%20Onyekaba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
 </a>
 </p>
 
