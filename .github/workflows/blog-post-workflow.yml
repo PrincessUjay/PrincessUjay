@@ -1,17 +1,24 @@
 name: Latest Medium blog post workflow
+
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: "0 * * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
-    name: Update README with Medium posts
+    name: Update README with latest Medium post
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - uses: gautamkrishnar/blog-post-workflow@v1
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update README with latest post
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@princess-ujay"
-          max_post_count: "2"
+          max_post_count: "1"
