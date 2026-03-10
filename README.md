@@ -18,21 +18,17 @@ This multidisciplinary outlook allows me to contribute meaningfully to building 
     <img src="https://github-profile-trophy.vercel.app/?username=princessujay" alt="princessujay" />
   </a> 
 </p> -->
-<h3>🌐 Portfolio</h3>
 
 <a href="YOUR_PORTFOLIO_LINK" target="_blank">
   <img src="https://img.shields.io/badge/Software%20Testing%20Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
 <a href="[YOUR_WEBSITE_LINK](https://sites.google.com/view/princessujay/home)" target="_blank">
   <img src="https://img.shields.io/badge/My%20Personal%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
-
-<p align="left">
 <a href="https://linkedin.com/in/princessujunwa">
 <img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-Ujunwa%20Princess%20Onyekaba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
 </a>
-</p>
+
 
 - 🔭 I’m currently working on **Web and Mobile QA projects**
 - 📝 I regularly write articles on [Medium](https://medium.com/@princess-ujay)
@@ -71,6 +67,7 @@ This multidisciplinary outlook allows me to contribute meaningfully to building 
 </a>
 </p>
 
+
 ### ⚙ Tools
 <p align="left"> 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
@@ -102,6 +99,7 @@ This multidisciplinary outlook allows me to contribute meaningfully to building 
   </a>
 </p>
 
+
 ### 💻 Languages
 <p>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -115,6 +113,7 @@ This multidisciplinary outlook allows me to contribute meaningfully to building 
   </a> 
 </p>
 
+
 ### 🧪 Testing & QA Skills
 
 | | |
@@ -125,6 +124,7 @@ This multidisciplinary outlook allows me to contribute meaningfully to building 
 | Test Design & Planning| - Test Plan Creation - Test Case Design - Test Scenario Development - Test Data Preparation - Requirement Analysis - |
 | Defect Management | - Bug Reporting - Bug Tracking - Bug/Defect Lifecycle Management - Defect Documentation |
 | API Testing | - API Functional Testing - API Request Validation - API Response Validation - API Test Scripts |
+
 
 ### 📊 GitHub Stats
 <p>
@@ -139,10 +139,10 @@ This multidisciplinary outlook allows me to contribute meaningfully to building 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princessujay&" alt="princessujay" />
 </p>
 
-### Achievements
 
+### Achievements
 - 🏆 Winner - Inibehe Effiong Essay Competition 2017
 - 🏆 Journal Publication- AJPSSI (https://ajpssi.org/index.php/ajpssi/article/view/633)    
-<!--
 
-Thank you for visiting my GitHub profile! Let's make the world better, together. 🚀
+### Thanks for stopping by! Feel free to explore my repositories and connect with me.
+### ❤️ Princess
