@@ -35,6 +35,8 @@ This multidisciplinary outlook allows me to contribute meaningfully to building 
   
 ### 📝 Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [World No Tobacco Day 2025](https://princess-ujay.medium.com/world-no-tobacco-day-2025-9ef5aa2d7539?source=rss-d02e31eb6eba------2)
+- [World Schizophrenia Awareness Day](https://princess-ujay.medium.com/world-schizophrenia-awareness-day-d2fc0d6899f8?source=rss-d02e31eb6eba------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Blog Posts
