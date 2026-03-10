@@ -110,38 +110,14 @@ This multidisciplinary outlook allows me to contribute meaningfully to building 
 
 | | |
 |---|---|
-| Manual Testing | Automation Testing |
-| Test Case Design | - Bug Reporting & Tracking - Regression Testing |
-| Functional Testing | User Acceptance Testing (UAT) |
-| Manual Testing | Regression Testing |
-| Test Case Design | Bug Reporting & Tracking |
-| Functional Testing | User Acceptance Testing (UAT) |
-Manual Testing
+| Manual Testing | Automation Testing - Selenium Automation - TestNG |
+| Functional Testing | - Regression Testing - User Acceptance Testing (UAT) - Smoke Testing - Sanity Testing - Exploratory Testing - Integration Testing - System Testing - Black Box Testing -Interface testing |
+| Non-Functional Testing | - Compatibility Testing -Compliance Testing - Usability Testing - Security testing |
+| Test Design & Planning| - Test Plan Creation - Test Case Design - Test Scenario Development - Test Data Preparation - Requirement Analysis - |
+| Defect Management | - Bug Reporting - Bug Tracking - Bug/Defect Lifecycle Management - Defect Documentation |
+| API Testing | - API Functional Testing - API Request Validation - API Response Validation - API Test Scripts |
 
-Functional Testing
-
-Non-Functional Testing
-
-Regression Testing
-
-Smoke Testing
-
-Sanity Testing
-
-Exploratory Testing
-
-Integration Testing
-
-System Testing
-
-End-to-End Testing
-
-User Acceptance Testing (UAT)
-
-Cross-Browser Testing
-
-Compatibility Testing
-
+### 📊 GitHub Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princessujay&show_icons=true&locale=en&layout=compact" alt="princessujay" />
 </p>
@@ -154,30 +130,10 @@ Compatibility Testing
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princessujay&" alt="princessujay" />
 </p>
 
-## 📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=princessujay&show_icons=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princessujay&layout=compact" height="160"/>
-</p>
-
-<img src="https://streak-stats.demolab.com/?user=princessujay" />
-
 ### Achievements
 
 - 🏆 Winner - Inibehe Effiong Essay Competition 2017
 - 🏆 Journal Publication- AJPSSI (https://ajpssi.org/index.php/ajpssi/article/view/633)    
 <!--
-### Featured Projects
 
-- **Automated Deployment Pipeline**
-  - Automated CI/CD pipeline using Jenkins and Docker to streamline application deployment.
-- **Kubernetes Cluster Management**
-  - Designed and managed Kubernetes clusters on AWS, implementing best practices for security and scalability.
-- **Infrastructure as Code with Terraform**
-  - Developed infrastructure automation scripts using Terraform, enabling consistent and repeatable deployments.
--->
-### Get in Touch
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/princessujunwa) if you want to collaborate on exciting projects or just want to say hi!
-
-Thank you for visiting my GitHub profile! Let's make the software development world better, together. 🚀
+Thank you for visiting my GitHub profile! Let's make the world better, together. 🚀
