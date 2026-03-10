@@ -32,6 +32,10 @@ This multidisciplinary outlook allows me to contribute meaningfully to building 
 
 - 🔭 I’m currently working on **Web and Mobile QA projects**
 - 📝 I regularly write articles on [Medium](https://medium.com/@princess-ujay)
+  
+### 📝 Latest Blog Post
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
