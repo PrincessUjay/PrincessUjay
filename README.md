@@ -13,16 +13,16 @@ This multidisciplinary outlook allows me to contribute meaningfully to building 
   <img src="https://komarev.com/ghpvc/?username=princessujay&label=Profile%20views&color=0e75b6&style=flat" alt="princessujay" /> 
 </p>
 
-<!-- <p align="left"> 
+<p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=princessujay" alt="princessujay" />
   </a> 
-</p> -->
+</p>
 
 <a href="YOUR_PORTFOLIO_LINK" target="_blank">
   <img src="https://img.shields.io/badge/Software%20Testing%20Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="[YOUR_WEBSITE_LINK](https://sites.google.com/view/princessujay/home)" target="_blank">
+<a href="[YOUR_WEBSITE_LINK]" target="_blank">
   <img src="https://img.shields.io/badge/My%20Personal%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 <a href="https://linkedin.com/in/princessujunwa">
